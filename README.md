@@ -1,2 +1,2 @@
 # NlpWithMe
-my learning process of nlp
+Let's learn NLP from zero.
